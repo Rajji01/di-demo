@@ -34,5 +34,6 @@ public class DiDemoApplication {
 
 		MyController mc=(MyController)ctx.getBean("myController");
 		mc.disp();
+		//hello
 	}
 }
